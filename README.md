@@ -10,8 +10,8 @@ HTML
 CSS
 
 Demo
-(Assets/Screen Shot 2021-01-12 at 6.24.02 PM.png)
-(Assets/Screen Shot 2021-01-12 at 6.24.14 PM.png)
+![demo with password](Assets/Screen Shot 2021-01-12 at 6.24.02 PM.png)
+![demo without password](Assets/Screen Shot 2021-01-12 at 6.24.14 PM.png)
 
 Repo link
 https://github.com/TASoko/Password-Generator
