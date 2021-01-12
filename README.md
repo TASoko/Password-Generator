@@ -11,7 +11,7 @@ CSS
 
 Demo
 ![demo with password](Assets/w-password.png)
-![demo without password](Assets/w/o-password.png)
+![demo without password](Assets/w-o-password.png)
 
 Repo link
 https://github.com/TASoko/Password-Generator
