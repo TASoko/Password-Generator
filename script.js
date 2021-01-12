@@ -1,4 +1,4 @@
-// Assignment Code
+a// Assignment Code
 
 //Click generate password button 
 var generateBtn = document.querySelector("#generate");
